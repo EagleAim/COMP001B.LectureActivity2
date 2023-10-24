@@ -1,7 +1,19 @@
 p{
-    background-color:pink
+    background-color:pink;
+    border:1px;
+    border-style: dashed;
 }
 
 h1 {
     background-color:blueviolet;
+    padding:20px;
+    margin:20px;
+}
+
+.Width {
+    width: 500px;
+}
+
+.Center {
+    text-align:center;
 }
